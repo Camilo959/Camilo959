@@ -30,5 +30,4 @@ Software developer and Systems Engineering student. I focus on building clear an
 - Improving English (A2 → B1).
 
 ## Contact
-- GitHub: [github.com/Camilo959](https://github.com/Camilo959)
 - Email: ivan.morales.ds@gmail.com
