@@ -1,33 +1,34 @@
-# Camilo Morales — Desarrollador Backend
+# Camilo Morales — Software Developer
 
-Soy desarrollador de software, formado en Tecnología en Desarrollo de Software. Me enfoco en construir APIs claras y mantenibles con Node.js y PostgreSQL. He trabajado en proyectos académicos web y cuento con experiencia administrativa que refuerza organización y documentación. Interesado en arquitectura, microservicios y nube.
+Software developer and Systems Engineering student. I focus on building clear and maintainable APIs using Node.js and PostgreSQL. I have experience in academic web projects and an administrative background that strengthens organization and documentation. I’m interested in software architecture, microservices, and continuously learning new technologies.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=2F81F7&center=false&width=500&lines=Desarrollador+Backend;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+APIs+REST;Aprendiendo+Docker+y+microservicios)](https://github.com/Camilo959)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=2F81F7&center=false&width=500&lines=Backend+Developer;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+REST+APIs;Learning+Docker+and+microservices)](https://github.com/Camilo959)
 
-## Tecnologías
+## Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PHP (bases)](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![PHP (basics)](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-2F81F7)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2F81F7)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Scrum básico](https://img.shields.io/badge/Scrum-b%C3%A1sico-555555)
+![Scrum (basic)](https://img.shields.io/badge/Scrum-basic-555555)
 
-## Proyectos
-- Proyectos académicos y personales:
-	- API REST con Node.js y PostgreSQL (CRUD, validaciones básicas).
-	- Aplicaciones web con HTML/CSS/JS y React y Tailwind CSS (básico–intermedio).
-	- Ejercicios con PHP para lógica y CRUD inicial.
+## Projects
+- Academic and personal projects:
+  - REST API with Node.js and PostgreSQL (CRUD, basic validation).
+  - Web apps with HTML/CSS/JS and React + Tailwind CSS (basic–intermediate).
+  - PHP exercises for logic and initial CRUD.
 
-## Aprendiendo ahora
-- Docker y fundamentos de microservicios.
-- Patrones y buenas prácticas en backend.
-- Mejora de inglés (A2 → B1).
+## Learning now
+- Docker and microservices fundamentals.
+- Backend patterns and best practices.
+- Improving English (A2 → B1).
 
-## Contacto
+## Contact
 - GitHub: [github.com/Camilo959](https://github.com/Camilo959)
 - Email: ivan.morales.ds@gmail.com
