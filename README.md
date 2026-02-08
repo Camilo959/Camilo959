@@ -2,7 +2,7 @@
 
 Software developer and Systems Engineering student. I focus on building clear and maintainable APIs using Node.js and PostgreSQL. I have experience in academic web projects and an administrative background that strengthens organization and documentation. I’m interested in software architecture, microservices, and continuously learning new technologies.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=2F81F7&center=false&width=500&lines=Backend+Developer;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+REST+APIs;Learning+Docker+and+microservices)](https://github.com/Camilo959)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=2F81F7&center=false&width=500&lines=Software+Developer;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+REST+APIs;Learning+Docker+and+microservices)](https://github.com/Camilo959)
 
 ## Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
