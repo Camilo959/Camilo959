@@ -4,7 +4,7 @@ Software developer and Systems Engineering student. I focus on building clear an
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2500&pause=1000&color=2F81F7&center=false&width=500&lines=Software+Developer;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+REST+APIs;Learning+Docker+and+microservices)](https://github.com/Camilo959)
 
-## Technologies
+## Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -14,7 +14,6 @@ Software developer and Systems Engineering student. I focus on building clear an
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-2F81F7)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Scrum (basic)](https://img.shields.io/badge/Scrum-basic-555555)
 
 ## Projects
