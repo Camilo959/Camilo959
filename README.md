@@ -14,7 +14,6 @@ Software developer and Systems Engineering student. I focus on building clear an
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-2F81F7)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Scrum (basic)](https://img.shields.io/badge/Scrum-basic-555555)
 
 ## Projects
 - Academic and personal projects:
