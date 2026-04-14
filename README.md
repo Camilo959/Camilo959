@@ -18,7 +18,7 @@ Software developer and Systems Engineering student. I focus on building clear an
 ## Projects
 - Academic and personal projects:
   - REST API with Node.js and PostgreSQL.
-  - Web apps with HTML/CSS/JS and React + Tailwind CSS (basic–intermediate).
+  - Web apps with HTML/CSS/JS and React + Tailwind CSS.
   - PHP exercises for logic and initial CRUD.
 
 ## Learning now
