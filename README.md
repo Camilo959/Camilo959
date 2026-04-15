@@ -24,7 +24,7 @@ Software developer and Systems Engineering student. I focus on building clear an
 ## Learning now
 - Docker and microservices fundamentals.
 - Backend patterns and best practices.
-- Improving English (B1 → B2).
+- English (B1 → B2).
 
 ## Contact
 - Email: ivan.morales.ds@gmail.com
